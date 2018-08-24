@@ -1,0 +1,43 @@
+run:
+After inserting 5
+ 5
+After inserting 20
+ 5 20
+After inserting 12
+ 5 12 20
+After inserting 27
+ 5 12 20 27
+After deleting 12
+ 5 20 27
+After inserting 37
+ 5 20 27 37
+After deleting 99
+Number not in list
+After inserting 73
+ 5 20 27 37 73
+After deleting 5
+ 20 27 37 73
+After deleting 73
+ 20 27 37
+After inserting 48
+ 20 27 37 48
+After reversing list 
+ 48 37 27 20
+After inserting 99
+ 99 48 37 27 20
+After inserting 23
+ 99 48 37 27 23 20
+After inserting 11
+ 99 48 37 27 23 20 11
+After deleting 99
+ 48 37 27 23 20 11
+After deleting 11
+ 48 37 27 23 20
+After reversing list 
+ 20 23 27 37 48
+List has been cleared
+After reversing list 
+List is empty
+After deleting 37
+Number not in list
+BUILD SUCCESSFUL (total time: 0 seconds)
